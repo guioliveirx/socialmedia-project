@@ -25,7 +25,7 @@ main{
 
 section#telefone{
     position: absolute;
-    
+
     /* Forma de centralizar um elemento sem precisar usar o GRID OU FLEX */
     top: 50%;
     left: 50%;
@@ -34,4 +34,12 @@ section#telefone{
     height: 627px;
     width: 311px;
     background: url('../imagens/frame-iphone.png') no-repeat;
+}
+
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 22px;
+    height: 467px;
+    width: 263px;
 }
