@@ -13,51 +13,69 @@ html,body{
 }
 
 body{
-    background:url('../imagens/fundo-madeira.jpg') no-repeat top center;
-    background-size: cover;
+    background-image: linear-gradient(to bottom, #4e1192, #52005e, #420036, #280719, #000000);
     background-attachment: fixed;
 }
 
 main{
     position: relative;
     height: 100vh;
+    overflow-x: hidden;
 }
 
 section#telefone{
     position: absolute;
-
     /* Forma de centralizar um elemento sem precisar usar o GRID OU FLEX */
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-
-    height: 627px;
+    
+    height: 630px;
     width: 311px;
-    background: url('../imagens/frame-iphone.png') no-repeat;
+    background: url('../imagens/frame-iphone.png') no-repeat center;
 }
+
+section#tel{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 600px;
+    width: 300px;
+}
+
 
 iframe#tela{
     position: relative;
-    top: 80px;
-    left: 22px;
-    height: 467px;
+    left: 19px;
+    height: 562px;
+    border-radius: 20px;
     width: 263px;
 }
 
 section#redes-sociais{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
     text-align: right;
+    height: 100vh;
+    width: 99vw;
+}
+
+div#container{
+    width: 70px;
 }
 
 section#redes-sociais img{
     margin: 10px;
-    height: 50px;
-    border-radius: 25px;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.452);
+    height: 60px;
+    border-radius: 30px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.466);
 }
 
 section#redes-sociais img:hover{
     border: 1px solid rgba(245, 245, 245, 0.671);
     transform: translateY(-3px);
     transition: transform 0.3s, border 0.2s;
-    box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.623);
+    box-shadow: 2px 8px 15px rgba(0, 0, 0, 0.87);
 }
