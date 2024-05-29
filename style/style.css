@@ -21,7 +21,6 @@ main{
 }
 
 section#telefone{
-    border: 1px solid aqua;
     display: flex;
     position: absolute;
     /* Forma de centralizar um elemento sem precisar usar o GRID OU FLEX */
