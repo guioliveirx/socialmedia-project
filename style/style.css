@@ -79,3 +79,17 @@ section#redes-sociais img:hover{
     transition: transform 0.3s, border 0.2s;
     box-shadow: 2px 8px 15px rgba(0, 0, 0, 0.87);
 }
+
+@media screen and (max-width: 700px){
+
+section#redes-sociais{
+    flex-direction: column;
+}
+
+div#container{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+}
