@@ -17,7 +17,7 @@ Este projeto foi desenvolvido como parte do meu aprendizado inicial em desenvolv
 ## Visualizando o Projeto
 
 <div align="center">
-    <a href="https://guioliveirx.github.io/socialmedia-project/"><img src="imagens/tela-home.jpg" alt="Screenshot do Projeto" width="600"></a>
+    <a href="https://guioliveirx.github.io/socialmedia-project/"><img src="https://github.com/guioliveirx/socialmedia-project/blob/main/socialmedia-project.png?raw=true" alt="Screenshot do Projeto"></a>
 </div>
 
 
