@@ -17,7 +17,7 @@ Este projeto foi desenvolvido como parte do meu aprendizado inicial em desenvolv
 ## Visualizando o Projeto
 
 <div align="center">
-  <img src="imagens/tela-home.jpg" alt="Screenshot do Projeto" width="600">
+    <a href="https://guioliveirx.github.io/socialmedia-project/"><img src="imagens/tela-home.jpg" alt="Screenshot do Projeto" width="600"></a>
 </div>
 
 
@@ -37,7 +37,7 @@ git clone https://github.com/guioliveirx/socialmedia-project.git
 
 ## Deploy
 
-**Para acessar o projeto online:** [Social Media](https://guilh.github.io/socialmedia-project)
+**Para acessar o projeto online:** [Social Media](https://guioliveirx.github.io/socialmedia-project/)
 
 ## Estrutura do Projeto
 
