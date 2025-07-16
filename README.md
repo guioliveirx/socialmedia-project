@@ -4,15 +4,16 @@
 
 ## Introdução
 
-Este foi um dos meus primeiros projetos de desenvolvimento web, criado com **HTML5** e **CSS3**. O projeto simula um smartphone com diferentes páginas de redes sociais carregadas através de iframes, oferecendo uma experiência interativa e visualmente atrativa.
+Este foi um dos meus primeiros projetos de desenvolvimento web, criado com `HTML5` e `CSS3`. O projeto simula um smartphone com diferentes páginas de redes sociais carregadas através de iframes, oferecendo uma experiência interativa e visualmente atrativa.
 
-Este projeto foi desenvolvido como parte do meu aprendizado inicial em desenvolvimento web, demonstrando conceitos fundamentais como:
-- Estruturação semântica com HTML5
-- Estilização avançada com CSS3
-- Uso de iframes para carregamento dinâmico de conteúdo
-- Design responsivo e interativo
-- Animações e transições CSS
+Este projeto foi desenvolvido como parte do meu aprendizado inicial em desenvolvimento web, demonstrando conceitos fundamentais como:</br> </br>
+✅ Estruturação semântica com HTML5 </br>
+✅ Estilização avançada com CSS3 </br>
+✅ Uso de iframes para carregamento dinâmico de conteúdo </br>
+✅ Design responsivo e interativo </br>
+✅ Animações e transições CSS 
 
+</br>
 
 ## Visualizando o Projeto
 
@@ -20,24 +21,22 @@ Este projeto foi desenvolvido como parte do meu aprendizado inicial em desenvolv
     <a href="https://guioliveirx.github.io/socialmedia-project/"><img src="https://github.com/guioliveirx/socialmedia-project/blob/main/socialmedia-project.png?raw=true" alt="Screenshot do Projeto"></a>
 </div>
 
+</br>
 
 ## 🛠️ Como Instalar
 
 1. **Clone o projeto:**
 ```bash
-git clone https://github.com/guioliveirx/socialmedia-project.git
+  git clone https://github.com/guioliveirx/socialmedia-project.git
 ```
 
 2. **Abra o arquivo principal:**
 ```bash
-# Abra o arquivo index.html em seu navegador
-# Ou use um servidor local como Live Server (VS Code)
+  # Abra o arquivo index.html em seu navegador
+  # Ou use um servidor local como Live Server (VS Code)
 ```
 
-
-## Deploy
-
-**Para acessar o projeto online:** [Social Media](https://guioliveirx.github.io/socialmedia-project/)
+</br>
 
 ## Estrutura do Projeto
 
@@ -57,11 +56,20 @@ socialmedia-project/
     └── logos das redes sociais
 ```
 
+</br>
+
+## Deploy
+
+**Para acessar o projeto online:** [Social Media](https://guioliveirx.github.io/socialmedia-project/)
+
+</br>
+
 ## Autor
 
 - [guioliveirx](https://github.com/guioliveirx)
 - [linkedin](https://www.linkedin.com/in/guioliveira2002/)
 
+</br>
 
 ## Inspiração e Agradecimentos
 
@@ -72,7 +80,8 @@ Este projeto foi **inspirado e solicitado pelo professor Gustavo Guanabara** do 
 Espero que tenha gostado do resultado! Se você se interessou pelo projeto, sinta-se à vontade para:
 - Dar uma estrela no repositório
 - Explorar outros projetos do meu portfólio
-
+  
+</br>
 
 ## Tecnologias Utilizadas
 
